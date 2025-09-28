@@ -1,0 +1,13 @@
+vehicleType: Sedan
+Color: Grey
+Wheels:
+  - Alloys: DimondCut
+  - Size:  20in
+  - Tyretype: MichelinPilotCupSports2
+Engine:
+  - Type: V8
+  - Capacity: 4.4l
+  - EmmisionNorm: EU6
+  - Fueltype:
+    - Disel: 90oct
+    - plugginHybrid: 80Kw
