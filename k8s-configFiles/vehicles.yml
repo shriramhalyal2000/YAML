@@ -11,3 +11,7 @@ Engine:
   - Fueltype:
     - Disel: 90oct
     - plugginHybrid: 80Kw
+Origin: 2002
+price:
+  - financed: no
+  - addedcost: no
